@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+<<<<<<< HEAD
   <title>Home</title>
 
   <!-- Bootstrap CSS -->
@@ -32,6 +33,34 @@
 
   <!-- Color CSS Styles  -->
   <link rel="stylesheet" type="text/css" href="<?= base_url() ?>assets/css/colors/indigo.css" media="screen" />
+=======
+  <title>Material - Material Design Bootstrap 4 Template</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/bootstrap.min.css">
+  <!-- Meterial Icon CSS -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/materialdesignicons.min.css">
+  <!-- Material CSS -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/material.min.css">
+  <!-- Ripples CSS -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/ripples.min.css">
+  <!-- Owl Carousel CSS -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/owl.carousel.css">
+  <!-- Magnific Popup -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/magnific-popup.css">
+  <!-- Slicknav CSS -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/slicknav.css">
+  <!-- Animate CSS -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/animate.css">
+  <!-- Style CSS -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/style.css">
+  <!-- Responsive CSS -->
+  <link rel="stylesheet" href="<?= base_url()  ?>assets/css/responsive.css">
+
+
+  <!-- Color CSS Styles  -->
+  <link rel="stylesheet" type="text/css" href="assets/css/colors/indigo.css" media="screen" />
+>>>>>>> a149a147e449357c696bae2cef499c0daa21ebe3
 
 </head>
 

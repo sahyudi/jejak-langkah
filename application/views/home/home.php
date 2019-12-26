@@ -85,6 +85,14 @@
     <!-- End Demo Custome Code (demo page only) -->
 </head>
 <!-- End Head -->
+<?php
+$status_lunas = null;
+if ($master['pelunasan'] == 1) {
+    $status_lunas = 'TUNAI';
+} elseif ($master['pelunasan'] == 2) {
+    $status_lunas = 'TRANSFER';
+}
+?>
 
 <body id="js-home">
     <!-- Header -->
